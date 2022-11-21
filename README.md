@@ -1,6 +1,5 @@
 # RIOANDK
 TUGAS DAW
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
